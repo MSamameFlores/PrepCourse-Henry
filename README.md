@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del PrepCourse
+Marco Antonio Samamé Flores
+Este es un repositorio de prueba del PrepCourse de Henry
